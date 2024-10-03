@@ -75,7 +75,7 @@ public class ObjectFactory {
         return new JAXBElement<validarEntidad>(_ValidarEntidad_QNAME, validarEntidad.class, null, value);
     }
  
-    /**
+    /*
      * Create an instance of {@link JAXBElement }{@code <}{@link ValidarEntidadResponse }{@code >}}
      * 
      */

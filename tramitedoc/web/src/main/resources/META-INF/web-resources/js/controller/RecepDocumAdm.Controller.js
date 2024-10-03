@@ -74,6 +74,7 @@ base.Event = {
                     var vValidaNumero = fu_validaNumero(pAnnioBusq);
                     if (vValidaNumero !== "OK") {
                        bootbox.alert("Año debe ser solo números.");
+                        let valRetorno;
                         valRetorno = "0";
                     }else if(vValidaNumero ==="OK"){
                       //  jQuery('#buscarDocumentoRecepBean').find('#sCoAnnio').val(pAnnioBusq);                          

@@ -433,7 +433,7 @@ public class AdmEmpleadoDaoImp extends SimpleJdbcDaoBase implements AdmEmpleadoD
         }
         return vReturn;
     }
-    /**
+    /*
      * Elimina acceso al sistema para un determinado empleado
      * @param acceso
      * @return

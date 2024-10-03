@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="spring-roo-repository" />
+      <option name="name" value="Spring Roo Repository" />
+      <option name="url" value="https://spring-roo-repository.springsource.org/release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-maven-release" />
+      <option name="name" value="Spring Maven Release Repository" />
+      <option name="url" value="http://maven.springframework.org/release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-maven-milestone" />
+      <option name="name" value="Spring Maven Milestone Repository" />
+      <option name="url" value="http://maven.springframework.org/milestone" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-maven-milestone" />
+      <option name="name" value="Spring Maven Milestone Repository" />
+      <option name="url" value="https://maven.springframework.org/milestone" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-maven2-release" />
+      <option name="name" value="Spring Maven2 Release Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-maven-release" />
+      <option name="name" value="Spring Maven Release Repository" />
+      <option name="url" value="https://maven.springframework.org/release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="thirdparty-releases" />
+      <option name="name" value="JBoss Thirdparty Releases" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/thirdparty-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-roo-repository" />
+      <option name="name" value="Spring Roo Repository" />
+      <option name="url" value="http://spring-roo-repository.springsource.org/release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="com.springsource.repository.bundles.external" />
+      <option name="name" value="SpringSource Enterprise Bundle Repository - External Bundle Releases" />
+      <option name="url" value="http://repository.springsource.com/maven/bundles/external" />
+    </remote-repository>
+  </component>
+</project>
