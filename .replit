@@ -1,0 +1,8 @@
+modules = ["java-graalvm22.3", "nodejs-20", "web"]
+run = "mvn -f tramitedoc/pom.xml clean install"
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "mvn -f tramitedoc/pom.xml clean install"]
